@@ -119,4 +119,4 @@ Ranking formulas
 This project pushes Excel beyond its traditional usage into a full BI-style dashboard.
 
 ### Screenshot
-![image alt]
+![image alt](https://github.com/the-gaurav-khandare/swiggy_sales_analysis_dashboard/blob/300d94497a4fff40931afaea7462484552fed822/Swiggy%20_Sales_Dashboard.jpg)
