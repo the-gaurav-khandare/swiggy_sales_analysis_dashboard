@@ -49,9 +49,9 @@ This insight helps businesses optimize promotions and staffing.
 
 **Using donut charts, the dashboard highlights:**
 
-🍗 **Non-Veg** dominates with **64%** of sales
+🥗 **Veg** dominates with **64%** of sales
 
-🥗 **Veg** contributes the remaining **36%**
+🍗**Non-Veg** contributes the remaining **36%**
 
 This split gives direction for menu planning and campaigns.
 
